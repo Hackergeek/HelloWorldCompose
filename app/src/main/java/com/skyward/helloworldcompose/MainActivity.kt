@@ -17,7 +17,6 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import androidx.core.os.ConfigurationCompat
 import com.skyward.helloworldcompose.ui.theme.ComposeTutorialTheme
 
 class MainActivity : ComponentActivity() {
